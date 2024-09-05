@@ -1,0 +1,90 @@
+
+{
+  "products": [
+    { 
+      "id": 1, 
+      "title": "Airpods Apple, com Estojo de Recarga, Bluetooth", 
+      "description": "Airpods Apple, com Estojo de Recarga, Bluetooth, Branco\nO Novo AirPods traz uma experiência nova em usar fones de ouvido sem fio. É só tirá-los do estojo e estão prontos para uso com seu iPhone, Apple Watch, iPad ou Mac. Ele oferece cinco horas de som e três horas para conversar com apenas uma carga. Eles acompanham seu ritmo graças ao estojo que proporciona várias cargas adicionais para mais de 24 horas de uso." ,
+      "price":1120,
+      "cover": "https://i.imgur.com/uXrbyfA.jpg"
+    },
+    { 
+      "id": 2, 
+      "title": "Notebook Gamer Lenovo Gaming 3i Intel Core i5-11300H", 
+      "description": "Lenovo ideapad Gaming 3i\nNovo design com 11ª Geração de Processadores Intel Core i5-11300H e placa de vídeo NVIDIA GeForce GTX 1650 4GB. Ideal para gamers e usuários que também precisam de alta performance. Com tela de 15.6'' Full HD WVA Antirreflexo para melhor definição de imagem e cores. O armanezamento SSD PCIe NVMe é 10x mais rápido* que um HDD 2.5” SATA, você terá mais segurança ao armazenar seus dados. O teclado retroiluminado em LED branco, deixa o computador mais atraente e também favorece a performance para jogos em lugares com pouca iluminação.",
+      "price": 3379.9,
+      "cover": "https://i.imgur.com/bM5IUKe.jpg"
+    },
+    { 
+      "id": 3, 
+      "title": "Teclado Mecânico Gamer HyperX Alloy", 
+      "description": "Teclado HyperX Alloy MKW100, HKBM1-R-EUA/G - 4P5E1AA#ABA\nObtenha uma iluminação radiante e por tecla com efeitos dinâmicos para adicionar um toque de estilo ao seu setup de PC. Estrutura em alumínio durável\nCom uma estrutura de alumínio sólida, o Alloy MKW100 foi projetado para fornecer estabilidade quando os toques em teclas estiverem a todo vapor. O descanso para pulso removível ajuda a reduzir a fadiga de longas sessões de jogos ou de trabalho.",
+      "price": 299.99,
+      "cover": "https://i.imgur.com/ldh1Q8O.jpg"
+    },
+    { 
+      "id": 4, 
+      "title": "Monitor Gamer Husky Tempest 34", 
+      "description": "O Monitor Gamer Husky Gaming Tempest LED 34 UltraWide Curvo traz a experiência de imersão completa para o seus jogos! A tela Curva UltraWide, formato 21:9, e Quad HD (QHD), com taxa de atualização de 144Hz, confere maior campo de visão e amplifica a experiência de imersão durante seus jogos.",
+      "price": 2099.99,
+      "cover": "https://i.imgur.com/sRmbcWW.jpeg"
+    },
+    { 
+      "id": 5, 
+      "title": "Soundbar LG SNH5, 4.1 Canais, Bluetooth, 600W RMS", 
+      "description": "O LG Sound Bar SNH5 uniu-se ao DTS Virtual:X para transformar sua casa em um verdadeiro cinema e deixar a exibição dos seus filmes favoritos muito mais imersiva. O LG Sound Bar SNH5 suporta saída para 4.1 canais para que você possa assistir à TV com um som mais envolvente.",
+      "price": 1099.99,
+      "cover": "https://i.imgur.com/w7SeQsa.jpg"
+    },
+    { 
+      "id": 6, 
+      "title": "Smartwatch Samsung Galaxy Watch 5, BT, 40mm", 
+      "description": "O smartwatch que oferece o mais completo conjunto de funções de monitoramento para o acompanhamento da Saúde e do Bem-Estar de uma maneira precisa e confiável. Possui os recursos essenciais e mais avançados para medir e acompanhar o estado da sua Saúde, funções como monitor de Batimento Cardíaco, Pressão Arterial, Eletrocardiograma, Oxímetro, Detecção de Queda e Chamada de Emergência, programa de Coaching do Sono para monitorar e melhorar a qualidade do seu Sono , além da Bioimpedância para avaliar a composição corporal de maneira rápida e interativa, e verificar a evolução os resultados dos exercícios refletidos no seu corpo. Possui uma série de funções avançadas de treinos com mais de 95 modalidades. ",
+      "price": 1139.00,
+      "cover": "https://i.imgur.com/Ua4bURp.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Jaqueta Jeans Levi's Trucker",
+      "description": "A clássica jaqueta jeans Trucker da Levi's. Confeccionada em denim de alta qualidade, possui ajuste regular, botões frontais e bolsos no peito.",
+      "price": 399.90,
+      "cover": "https://http2.mlstatic.com/D_NQ_NP_2X_994373-MLB69612183059_052023-F.webp"
+    },
+    {
+      "id": 8,
+      "title": "Tênis Nike Air Max 270",
+      "description": "O Nike Air Max 270 oferece um look arrojado e pronto para as ruas. O primeiro Air Max lifestyle da Nike apresenta a maior unidade Air até agora no calcanhar para um amortecimento macio e elástico.",
+      "price": 749.99,
+      "cover": "https://imgnike-a.akamaihd.net/768x768/01634954A6.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Relógio Feminino Michael Kors MK3190",
+      "description": "Relógio feminino Michael Kors, modelo MK3190. Possui caixa em aço inoxidável dourado, mostrador em madrepérola e marcadores de cristais.",
+      "price": 1299.00,
+      "cover": "https://i.zst.com.br/thumbs/1/11/d/-1160855847.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Relógio Casio G-Shock DW-5600BB-1DR",
+      "description": "O icônico relógio G-Shock da Casio, modelo DW-5600BB-1DR. Resistente a choques e à água até 200 metros, possui iluminação LED, cronômetro, timer e alarme.",
+      "price": 569.00,
+      "cover": "https://leandrinistore.vteximg.com.br/arquivos/ids/226143-900-900/Relogio-Casio-G-Shock-Padrao-Digital-DW-5600BB-1DR-Preto-03.jpg?v=637251595797470000"
+    },
+    {
+      "id": 11,
+      "title": "Vestido Floral Midi",
+      "description": "Vestido midi com estampa floral, ideal para ocasiões casuais ou semi-formais. Confeccionado em tecido leve e fluido, possui cintura marcada e saia levemente rodada.",
+      "price": 189.99,
+      "cover": "https://image.harrods.com/18/66/35/10/18663510_41523545_2048.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Camiseta Polo Ralph Lauren Masculina",
+      "description": "Camiseta polo clássica da Ralph Lauren, confeccionada em algodão piqué de alta qualidade. Possui o icônico logotipo do jogador de pólo bordado no peito.",
+      "price": 299.90,
+      "cover": "https://www.cdiscount.com/pdt2/5/4/6/1/700x700/mp38067546/rw/polo-ralph-lauren-homme-demi-manches-noir.jpg"
+    }
+    
+  ]
+}
